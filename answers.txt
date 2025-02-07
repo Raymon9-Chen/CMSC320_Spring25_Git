@@ -1,11 +1,12 @@
 Q1: Why might we consider using Git?
 
 Answer: Due to its bracnhing capabilities, the branches are cheap and very easy to merge
-<<<<<<< HEAD
-=======
 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Neuroscience, getting data of where the brain is stimulated during particular acitivies could provide insight into new research
 
->>>>>>> q2
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: rebasing overwrites a branch's history while merging preserves the history of both branches
+
